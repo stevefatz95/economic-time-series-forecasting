@@ -1,0 +1,11 @@
+ipython==8.30.0
+alpha_vantage==3.0.0
+fredapi==0.5.2
+wbdata==1.0.0
+matplotlib==3.10.0
+pandas==2.2.3
+statsmodels==0.14.4
+numpy==2.0.1
+statsforecast==2.0.1
+seaborn==0.13.2
+arch==0.0.0
